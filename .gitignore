@@ -1,0 +1,7 @@
+.vs
+/x64
+*.db
+*.cmd
+/Debug
+/TestKMDF/Debug
+/TestKMDF/x64
